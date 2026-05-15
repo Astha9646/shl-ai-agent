@@ -1,0 +1,5008 @@
+{
+  "source": "https://www.shl.com/products/product-catalog/",
+  "section": "Individual Test Solutions",
+  "count": 377,
+  "assessments": [
+    {
+      "assessment_name": "Global Skills Development Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+      "description": "Global Skills Development Report : This report is designed to be given to individuals who have completed the Global Skills Assessment (GSA). With coverage across the Great 8 Domains, this…",
+      "test_type": {
+        "codes": [
+          "A",
+          "E",
+          "B",
+          "C",
+          "D",
+          "P"
+        ],
+        "categories": [
+          "Ability & Aptitude",
+          "Assessment Exercises",
+          "Biodata & Situational Judgement",
+          "Competencies",
+          "Development & 360",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": ".NET Framework 4.5",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+      "description": ".NET Framework 4.5: The.NET Framework 4.5 test measures knowledge of .NET environment. Designed for experienced users, this test covers the following topics: Application…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": ".NET MVC (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+      "description": ".NET MVC (New): Multi-choice test that measures the knowledge of Model-View-Controller (MVC) architecture, validation, security, routing, and areas.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": ".NET MVVM (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+      "description": ".NET MVVM (New): Multi-choice test that measures the knowledge of MVVM pattern, scenarios, data validation, ViewModel communication and Quick-start.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": ".NET WCF (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+      "description": ".NET WCF (New): Multi-choice test that measures the knowledge of .NET fundamentals, WCF architecture, programming model, SOA, managing and programming WCF.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": ".NET WPF (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+      "description": ".NET WPF (New): Multi-choice test that measures the knowledge of .NET basics, WPF, XAML controls, events, layouts, working with WPF windows/menus and deploying WPF…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": ".NET XAML (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+      "description": ".NET XAML (New): Multi-choice test that measures the knowledge of XAML triggers, data binding, custom controls and layouts.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Accounts Payable (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+      "description": "Accounts Payable (New): Multiple-choice test that measures the knowledge of processing payables and vendor invoices, and the posting of journal entries.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Accounts Payable Simulation (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+      "description": "Accounts Payable Simulation (New): Simulated data entry test that measures the ability to process payables and vendor invoices.",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Accounts Receivable (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+      "description": "Accounts Receivable (New): Multiple-choice test that measures the knowledge of processing receivables and invoices.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Accounts Receivable Simulation (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+      "description": "Accounts Receivable Simulation (New): Simulated data entry test that measures the ability to process receivables and invoices.",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "ADO.NET (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+      "description": "ADO.NET (New): Multi-choice test that measures the knowledge on the concepts of ADO.NET architecture, components and data provider objects.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Adobe Experience Manager (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+      "description": "Adobe Experience Manager (New): Multi-choice test that measures the knowledge of AEM components, templates, workflows, AEM collections, OSGi services and troubleshooting of AEM projects.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Adobe Photoshop CC",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+      "description": "Adobe Photoshop CC: The Adobe Photoshop CC test measures knowledge of Adobe Photoshop CC. Designed for experienced users, this test covers the following topics: 3D, Color, File…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Aeronautical Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+      "description": "Aeronautical Engineering (New): Multi-choice test that measures the knowledge of flight mechanics, space dynamics, aerodynamics, structures and propulsion.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Aerospace Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+      "description": "Aerospace Engineering (New): Multi-choice test that measures the conceptual knowledge of aerodynamics, aircraft systems and instrumentation, flight dynamics, space dynamics and avionics.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Agile Software Development",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+      "description": "Agile Software Development: Multi-choice test that measures the knowledge of agile methodology, scrum, feature driven software development, incremental and iterative development and…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Agile Testing (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+      "description": "Agile Testing (New): Multi-choice test that measures the knowledge of tools, techniques and processes involved in the Agile testing methodology.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "AI Skills",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+      "description": "AI Skills : The AI Skills assessment measures the skills that help candidates successfully leverage AI in their work.",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Amazon Web Services (AWS) Development (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+      "description": "Amazon Web Services (AWS) Development (New): Multi-choice test that measures the knowledge of AWS delivery process, monitoring, metrics, logging, security, validation and scalability.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Android Development (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+      "description": "Android Development (New): Multi-choice test that measures the knowledge of UI components for an Android device, services and alerts, animation and media apps, application components…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Angular 6 (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+      "description": "Angular 6 (New): Multi-choice test that measures the knowledge of the basic components and modules of Angular 6 and concepts like data binding, dependency injection, CRUD with…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "AngularJS (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+      "description": "AngularJS (New): Multi-choice test that measures the knowledge of AngularJS architecture, forms, directives, filters, controllers, routing and testing.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Apache Hadoop (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+      "description": "Apache Hadoop (New): Multi-choice test that measures the knowledge of basic concepts of Hadoop, commands, HDFS and MapReduce.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Apache Hadoop Extensions (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+      "description": "Apache Hadoop Extensions (New): Multi-choice test that measures the conceptual knowledge of Pig, Hive and HBase.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Apache HBase (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+      "description": "Apache HBase (New): Multi-choice test that measures the knowledge of HBase concepts such as CAP theorem, ACID properties, HBase client API, MapReduce integration, configuration…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Apache Hive (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+      "description": "Apache Hive (New): Multi-choice test that measures the knowledge of Hive architecture, datatypes, built-in functions, configurations, partitioning, bucketing and commands of Hive…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Apache Kafka (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+      "description": "Apache Kafka (New): Multi-choice test that measures the knowledge of Apache Kafka architecture, components, clusters, performance tuning and advanced operations.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Apache Pig (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+      "description": "Apache Pig (New): Multi-choice test that measures the knowledge of Pig architecture, built-in operators, built-in functions and commands in PigLatin.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Apache Spark (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+      "description": "Apache Spark (New): Multi-choice test that measures the knowledge of Apache Spark principles, RDD operations - actions and transformations, lineage graphs and lazy evaluation.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "ASP .NET with C# (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+      "description": "ASP .NET with C# (New): Multi-choice test that measures the knowledge of .NET framework and controls, C# fundamentals, OOPs concepts and advanced topics such as data access…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "ASP.NET 4.5",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+      "description": "ASP.NET 4.5: The ASP.NET 4.5 test measures knowledge of programming in the ASP.NET environment. Designed for experienced developers, but an average performer in this role…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Assessment and Development Center Exercises",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+      "description": "Assessment and Development Center Exercises: SHL offers a comprehensive range of Assessment and Development Centre exercise in digital format, for remote assessment through our Virtual Assessment and…",
+      "test_type": {
+        "codes": [
+          "E"
+        ],
+        "categories": [
+          "Assessment Exercises"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Automata - Fix (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+      "description": "Automata - Fix (New): A simulated compiler integrated test to measure debugging skills in C, C++ and Java. The test checks the ability to fix logical or syntactical errors and to…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Automata - SQL (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+      "description": "Automata - SQL (New): A simulated query writing test that measures the ability to write SQL queries to perform DDL, DML and DCL tasks.",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Automata (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+      "description": "Automata (New): An AI-powered coding simulation assessment that evaluates candidate’s programming ability. Offers a familiar IDE environment available in over 40 different…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Automata Data Science (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+      "description": "Automata Data Science (New): A simulated test that measures the ability to analyze and modify data using machine learning algorithms to obtain desirable results.",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Automata Data Science Pro (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+      "description": "Automata Data Science Pro (New): A simulated test that measures the ability to analyze and modify data using machine learning algorithms to obtain desirable results.",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Automata Front End",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+      "description": "Automata Front End: Simulation based test that measures the front-end development capabilities using HTML, CSS, and JavaScript. The candidate is provided with 3 different…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Automata Pro (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+      "description": "Automata Pro (New): An AI-powered coding simulation assessment that evaluates candidate’s programming ability. Offers a familiar IDE environment available in over 40 different…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Automata Selenium",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+      "description": "Automata Selenium: A coding simulation assessment that evaluates the ability to conduct tasks related to automation testing using Selenium scripts.",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Automation Anywhere RPA Development (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+      "description": "Automation Anywhere RPA Development (New): Multi-choice test that measures the knowledge of Automation Anywhere dash board and task editor, control room, key commands, bots and Automation Anywhere…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Automotive Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+      "description": "Automotive Engineering (New): Multi-choice test that measures the knowledge of auto engine classification, engine fuel system, auto-vehicle technology, maintenance, inspection and…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Basic Biology (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+      "description": "Basic Biology (New): Multi choice test that measures the candidate's basic understanding of Biology.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Basic Computer Literacy (Windows 10) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+      "description": "Basic Computer Literacy (Windows 10) (New): The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform…",
+      "test_type": {
+        "codes": [
+          "S",
+          "K"
+        ],
+        "categories": [
+          "Simulations",
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Basic Statistics (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+      "description": "Basic Statistics (New): Multi-choice test that measures the knowledge of statistical methods, exploratory analysis, basics of probability, standard distributions and statistical…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Biochemistry (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+      "description": "Biochemistry (New): Multi-choice test that measures the knowledge of various bio-molecules like amino acids, proteins, enzymes, carbohydrates, vitamins and nucleic acids, and…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Biotech Lab Techniques (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+      "description": "Biotech Lab Techniques (New): Multi-choice test that measures the knowledge of biophysical techniques, bio-processing and separation techniques like chromatography and electrophoresis.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "BizTalk (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+      "description": "BizTalk (New): Multi-choice test that measures the knowledge of BizTalk architecture, pipelines, adapters, business process techniques and BizTalk administration.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Business Communication (adaptive)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+      "description": "Business Communication (adaptive): This is an adaptive test that measures knowledge of communicating in the workplace. It measures the skills necessary to communicate effectively with coworkers…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Business Communications",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+      "description": "Business Communications: This test measures the candidate's knowledge of communicating in the workplace. It measures the skills necessary to communicate effectively with coworkers at…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "C Programming (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+      "description": "C Programming (New): Multi-choice test that measures the knowledge of C programming basics, functions, arrays, composed data types, and advanced C concepts like SLF, file handling…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "C# Programming (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+      "description": "C# Programming (New): Multi-choice test that measures the knowledge of C# programming structure, functions, collections, enumeration, exception handling, OOPs constructs…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "C++ Programming (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+      "description": "C++ Programming (New): Multi-choice test that measures the knowledge of programming in the C++ language and the ability to use the C++ standard library to write code.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Cardiology and Diabetes Management (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+      "description": "Cardiology and Diabetes Management (New): Multi-choice test that measures the knowledge of how to control and manage cardiovascular diseases and diabetes, and understanding of the diagnostic tests used…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Ceramic Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+      "description": "Ceramic Engineering (New): Multi-choice test that measures the knowledge of classification of ceramic materials, production of ceramics and thermodynamics.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Chemical Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+      "description": "Chemical Engineering (New): Multi-choice test that measures the conceptual knowledge of transport phenomena, chemical process engineering and technology, chemical process principles…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Cisco AppDynamics (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+      "description": "Cisco AppDynamics (New): Multi-choice test that measures the knowledge of application analytics, performance management, and AppDynamics essentials like controller UI, custom…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Civil Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+      "description": "Civil Engineering (New): Multi-choice test that measures the knowledge of structural engineering, transportation engineering, surveying, geotechnical engineering and water resources…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Cloud Computing (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+      "description": "Cloud Computing (New): Multi-choice test that measures the knowledge of cloud computing concepts, cloud service models, virtualization and private clouds.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "COBOL Programming (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+      "description": "COBOL Programming (New): Multi-choice test that measures the knowledge of COBOL programming fundamentals, programming structure and different types of application processing.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Computer Science (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+      "description": "Computer Science (New): Multi-choice test that measures the knowledge of operating system, computer architecture, DBMS and basics of computer networks and communication.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Contact Center Call Simulation (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+      "description": "Contact Center Call Simulation (New): Simulation based test that measures the ability to handle customer concerns over a call by referring to standard process documents. It also measures typing and…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Conversational Multichat Simulation",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+      "description": "Conversational Multichat Simulation : This is a simulation-based test that measures the ability to handle customer concerns over multiple chats by referring to standard process documents. It…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Core Java (Advanced Level) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+      "description": "Core Java (Advanced Level) (New): Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, files and exception handling, and advanced Java concepts like generics…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Core Java (Entry Level) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+      "description": "Core Java (Entry Level) (New): Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, file handling, exception handling, threads, generic class and inner class.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Count Out The Money",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+      "description": "Count Out The Money: The Count out the Money –US test measures a candidate’s money handling ability. This test is designed for entry-level positions where handling money is…",
+      "test_type": {
+        "codes": [
+          "K",
+          "S"
+        ],
+        "categories": [
+          "Knowledge & Skills",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "CSS3 (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+      "description": "CSS3 (New): Multi-choice test that measures the knowledge of CSS3 and its application in providing style to web documents.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Culinary Skills (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+      "description": "Culinary Skills (New): Multi-choice test that measures the knowledge of cooking principles, cooking equipment, meal preparation and presentation, and kitchen safety.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Customer Service Phone Simulation",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+      "description": "Customer Service Phone Simulation: As part of Contact Center Simulations, the Customer Service Phone Simulation is designed for entry-level positions in a contact center environment. Sample…",
+      "test_type": {
+        "codes": [
+          "B",
+          "S"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Customer Service Phone Solution",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+      "description": "Customer Service Phone Solution: As part of Contact Center Simulations, the Customer Service Phone Solution includes a contact center simulation and two behavioral tests designed to measure a…",
+      "test_type": {
+        "codes": [
+          "B",
+          "P",
+          "S"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement",
+          "Personality & Behavior",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Cyber Risk (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+      "description": "Cyber Risk (New): Multi-choice test that measures the knowledge of cyber risk management, system and application security, network security and security management.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Data Entry (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+      "description": "Data Entry (New): Simulated data entry test that measures the ability to accurately transcribe data from pre-filled forms and the ability to verify pre-filled data.",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Data Entry Alphanumeric Split Screen - US",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+      "description": "Data Entry Alphanumeric Split Screen - US: The Data Entry Alphanumeric Split Screen - US assessment measures speed and accuracy at typing text and numbers into forms. The information includes…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Data Entry Numeric Split Screen - US",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+      "description": "Data Entry Numeric Split Screen - US: The Data Entry Numeric Split Screen - US assessment measures speed and accuracy at typing numbers into forms. The information candidates must enter includes…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Data Entry Ten Key Split Screen",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+      "description": "Data Entry Ten Key Split Screen: Data Entry Ten Key Split Screen assessment measures ability to enter numbers using a numeric keypad. The test measures accuracy and speed.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Data Science (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+      "description": "Data Science (New): Multi-choice test that measures the conceptual knowledge on how to use machine learning to analyze data, extract information, draw conclusions and make…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Data Warehousing Concepts",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+      "description": "Data Warehousing Concepts: The Data Warehousing Concepts test measures knowledge of Data Warehousing. Designed for experienced users, this test covers the following topics: Big Data and…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Dependability and Safety Instrument (DSI)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+      "description": "Dependability and Safety Instrument (DSI): The DSI is a short pre-screening tool for many key entry-level roles. It is designed to identify potential employees who will have good dependability and…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Dermatology (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+      "description": "Dermatology (New): Multi-choice test that measures the knowledge of various diseases related to skin, their symptoms, the drugs used to treat them, and different terminologies…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Desktop Support (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+      "description": "Desktop Support (New): Multi-choice test that measures the knowledge of networking, peripheral components, operating systems, troubleshooting and providing technical support.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Digital Advertising (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+      "description": "Digital Advertising (New): Multi-choice test that measures the candidate's knowledge about use of AdWords and tools to analyze ad performance on digital media.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Digital Readiness Development Report - IC",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+      "description": "Digital Readiness Development Report - IC: This participant-oriented report is aimed at individual contributors (non-managerial) and summarizes the way that they have described their typical style at…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Digital Readiness Development Report - Manager",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+      "description": "Digital Readiness Development Report - Manager: This participant-oriented report is aimed employees with management responsibilities and summarizes the way that they have described their typical style at…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Docker (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+      "description": "Docker (New): Multi-choice test that measures the knowledge of Docker container, data management, Docker performance and swarm.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Dojo (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+      "description": "Dojo (New): Multi-choice test that measures the knowledge of Dojo architecture, classes and libraries, styles, animation and Dojo queries.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Drupal (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+      "description": "Drupal (New): Multi-choice test that measures the knowledge of Drupal setup, content management, user interface, module development and security.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "DSI v1.1 Interpretation Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+      "description": "DSI v1.1 Interpretation Report: DSI v1.1 Interpretation Report",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Econometrics (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+      "description": "Econometrics (New): Multi-choice test that measures the knowledge of statistical concepts, exploratory analysis and statistical testing required to analyze economic data.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Economics (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+      "description": "Economics (New): Multi-choice test that measures the conceptual knowledge of microeconomics, macroeconomics and international trade.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Electrical and Electronics Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+      "description": "Electrical and Electronics Engineering (New): Multi-choice test that measures the candidate’s knowledge and understanding on fundamentals of electrical engineering, instrumentation and control system and…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Electrical Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+      "description": "Electrical Engineering (New): Multi-choice test that measures the knowledge of basic electrical engineering, electrical machines, power systems, instrumentation, control systems and basic…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Electronics & Telecommunications Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+      "description": "Electronics & Telecommunications Engineering (New): Multi-choice test that measures the candidate’s knowledge and understanding on semiconductors and semiconductor devices, analog and digital electronics…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Electronics and Embedded Systems Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+      "description": "Electronics and Embedded Systems Engineering (New): Multi-choice test that measures the candidate’s knowledge and understanding on concepts like embedded systems and, analog and digital electronics.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Electronics and Semiconductor Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+      "description": "Electronics and Semiconductor Engineering (New): Multi-choice test that measures the knowledge of semiconductors, two terminal and three terminal devices, analog electronics, digital electronics and basics of…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "English Comprehension (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+      "description": "English Comprehension (New): Multiple-choice test that measures vocabulary, grammar and reading comprehension skills.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Enterprise Java Beans (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+      "description": "Enterprise Java Beans (New): Multi-choice test that measures the knowledge of enterprise Java beans (EJB), types of EJB, transactions and concurrency.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Enterprise Leadership Report 1.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+      "description": "Enterprise Leadership Report 1.0: Assess and benchmark your leaders against enterprise leadership - the model for leader impact to drive business results in a complex work environment. For…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Enterprise Leadership Report 2.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+      "description": "Enterprise Leadership Report 2.0: Assess and benchmark your leaders against enterprise leadership - the model for leader impact to drive business results in a complex work environment. For…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Entry Level Cashier Solution",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+      "description": "Entry Level Cashier Solution: The Precise Fit Entry Level Cashier Solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards…",
+      "test_type": {
+        "codes": [
+          "C",
+          "P"
+        ],
+        "categories": [
+          "Competencies",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Entry Level Customer Serv-Retail & Contact Center",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+      "description": "Entry Level Customer Serv-Retail & Contact Center: The Precise Fit Entry Level Customer Service Solution (Retail/Contact Center) is for entry-level positions in which employees interact with customers by…",
+      "test_type": {
+        "codes": [
+          "P",
+          "C"
+        ],
+        "categories": [
+          "Personality & Behavior",
+          "Competencies"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Entry Level Customer Service (General) Solution",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+      "description": "Entry Level Customer Service (General) Solution: The Precise Fit Entry Level Customer Service Solution (General) is for a wide range of entry-level positions where employees are expected to interact with…",
+      "test_type": {
+        "codes": [
+          "C",
+          "P"
+        ],
+        "categories": [
+          "Competencies",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Entry Level Hotel Front Desk Solution",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+      "description": "Entry Level Hotel Front Desk Solution: The Precise Fit Entry Level Hotel Front Desk Solution is for entry-level customer service positions in the hospitality industry. The solution is appropriate…",
+      "test_type": {
+        "codes": [
+          "C",
+          "P"
+        ],
+        "categories": [
+          "Competencies",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Entry Level Sales Solution",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+      "description": "Entry Level Sales Solution: The Precise Fit Entry Level Sales Roles Solution is for entry-level positions in which employees proactively sell products or services to customers and have…",
+      "test_type": {
+        "codes": [
+          "C",
+          "P"
+        ],
+        "categories": [
+          "Competencies",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Entry Level Technical Support Solution",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+      "description": "Entry Level Technical Support Solution: The Precise Fit Entry Level Technical Support Solution is for entry-level positions in which employees provide technical assistance to computer users in a…",
+      "test_type": {
+        "codes": [
+          "P",
+          "C"
+        ],
+        "categories": [
+          "Personality & Behavior",
+          "Competencies"
+        ]
+      }
+    },
+    {
+      "assessment_name": "ETL Testing (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+      "description": "ETL Testing (New): Multi-choice test that measures the knowledge of ETL architecture, data warehousing, dimensions, DBMS concepts like data manipulation, constraints, ETL testing…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Executive Scenarios",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+      "description": "Executive Scenarios: Executive Scenarios is a unique test of Managerial Judgement - an individual’s ability to decide on effective ways of handling real life situations. It is…",
+      "test_type": {
+        "codes": [
+          "B"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Executive Scenarios Narrative Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+      "description": "Executive Scenarios Narrative Report: Executive Scenarios is a unique test of Managerial Judgement - an individual’s ability to decide on effective ways of handling real life situations. It is…",
+      "test_type": {
+        "codes": [
+          "B"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Executive Scenarios Profile Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+      "description": "Executive Scenarios Profile Report: Executive Scenarios is a unique test of Managerial Judgement - an individual’s ability to decide on effective ways of handling real life situations. It is…",
+      "test_type": {
+        "codes": [
+          "B"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement"
+        ]
+      }
+    },
+    {
+      "assessment_name": "ExpressJS (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+      "description": "ExpressJS (New): Multi-choice test that measures the knowledge of routing, error handling, security, middleware and performance & reliability in ExpressJS.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Filing - Names (R1)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+      "description": "Filing - Names (R1): This test measures ability to sort names in alphabetical order. Test takers are shown a graphical display of four folder tabs -- three contain alphabetized…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Filing - Numbers",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+      "description": "Filing - Numbers: This test measures ability to sort items in numerical order. Test takers are shown a graphical display of four folder tabs -- three contain numbers and one is…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Financial Accounting (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+      "description": "Financial Accounting (New): Multi-choice test that measures the ability to post journal entries, classify items into assets and liabilities, analyze financial statements and calculate…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Financial and Banking Services (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+      "description": "Financial and Banking Services (New): Multi-choice test that measures the knowledge of investment products, banking products, taxation and principles of Macroeconomics.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Fire Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+      "description": "Fire Engineering (New): Multi-choice test that measures the knowledge of fire engineering principles, basic workplace safety and safety management.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Following Instructions v1 - UK (R1)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+      "description": "Following Instructions v1 - UK (R1): This test measures a candidate's ability to follow detailed instructions and then select the correct course of action. Candidates are presented with a set of…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Following Instructions v1 - US (R2)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+      "description": "Following Instructions v1 - US (R2): This test measures a candidate's ability to follow detailed instructions and then select the correct course of action. Test takers are presented with a set of…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Food and Beverage Services (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+      "description": "Food and Beverage Services (New): Multi-choice test that measures the knowledge of meal planning, service preparation, types of service equipment, and types of beverages.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Food Science (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+      "description": "Food Science (New): Multi-choice test that measures the knowledge of food chemistry, nutrition, food microbiology, food engineering and food product technology.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Front Office Management (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+      "description": "Front Office Management (New): Multi-choice test that measures the knowledge of front office operations.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Fundamentals of Chemistry (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+      "description": "Fundamentals of Chemistry (New): Multi-choice test that measures the knowledge of physical chemistry, inorganic chemistry and organic chemistry.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Fundamentals of Physics (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+      "description": "Fundamentals of Physics (New): Multi-choice test that measures the knowledge of classical mechanics, Newton's laws of motion, electromagnetism, EM waves, thermodynamics and modern physics.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "General Diseases (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+      "description": "General Diseases (New): Multi-choice test that measures the knowledge of common diseases of ear, nose, throat and teeth, their symptoms, drugs used to treat them and various drugs…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Geoinformatics Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+      "description": "Geoinformatics Engineering (New): Multi-choice test that measures the knowledge of remote sensing, digital image processing, digital photogrammetry, planning and surveying, geology, GIS and…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Geoscience Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+      "description": "Geoscience Engineering (New): Multi-choice test that measures the knowledge of exploration geology, soil mechanics, rock mechanics, geophysical investigation, geological surveying.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "GIT (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/git-new/",
+      "description": "GIT (New): Multi-choice test that measures the knowledge of how to use GIT for version control.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Global Skills Assessment",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+      "description": "Global Skills Assessment: The Global Skills Assessment (GSA) is an assessment used to measure 96 discrete skills/behaviors. These 96 skill scores are directly aligned to the most…",
+      "test_type": {
+        "codes": [
+          "C",
+          "K"
+        ],
+        "categories": [
+          "Competencies",
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Graduate Scenarios",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+      "description": "Graduate Scenarios: Graduate Scenarios is a unique test of Managerial Judgement - an individual’s ability to decide on effective ways of handling real life situations. It is…",
+      "test_type": {
+        "codes": [
+          "B"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Graduate Scenarios Narrative Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
+      "description": "Graduate Scenarios Narrative Report: Graduate Scenarios is a unique test of Managerial Judgement - an individual’s ability to decide on effective ways of handling real life situations. It is…",
+      "test_type": {
+        "codes": [
+          "B"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Graduate Scenarios Profile Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
+      "description": "Graduate Scenarios Profile Report: Graduate Scenarios is a unique test of Managerial Judgement - an individual’s ability to decide on effective ways of handling real life situations. It is…",
+      "test_type": {
+        "codes": [
+          "B"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Hibernate (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+      "description": "Hibernate (New): Multi-choice test that measures the knowledge of Hibernate architecture, Hibernate mapping and Hibernate query language(HQL).",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "HIPAA (Security)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+      "description": "HIPAA (Security): The HIPAA (Security) test measures knowledge of compliance with the standards required by the Security and Electronic Signature Standards as they apply to…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "HiPo Assessment Report 1.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+      "description": "HiPo Assessment Report 1.0: Part of SHL’s High Potential solution and developed from SHL’s extensive research into high-potential programs, the HIPO Assessment Report 1.0 helps…",
+      "test_type": {
+        "codes": [
+          "C",
+          "P"
+        ],
+        "categories": [
+          "Competencies",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "HiPo Assessment Report 2.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+      "description": "HiPo Assessment Report 2.0: Part of SHL’s High Potential solution and developed from SHL’s extensive research into high-potential programs, the HIPO Assessment Report 2.0 helps…",
+      "test_type": {
+        "codes": [
+          "C",
+          "P"
+        ],
+        "categories": [
+          "Competencies",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "HiPo Unlocking Potential Report 2.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+      "description": "HiPo Unlocking Potential Report 2.0: This report draws insights from the Occupational Personality QuestionnaireTM (OPQ32). Used for individuals who are selected into a client’s HiPo program, it…",
+      "test_type": {
+        "codes": [
+          "C"
+        ],
+        "categories": [
+          "Competencies"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Housekeeping (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
+      "description": "Housekeeping (New): Multi-choice test that measures the knowledge of housekeeping activities such as cleaning, laundry, room maintenance and routine checks.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "HTML/CSS (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+      "description": "HTML/CSS (New): Multi-choice test that measures the knowledge of HTML to create a user interface and CSS to stylize it.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "HTML5 (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/html5-new/",
+      "description": "HTML5 (New): Multi-choice test that measures the knowledge of HTML5 and its application in creating a user interface.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Human Resources (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+      "description": "Human Resources (New): Multi-choice test that measures the candidate on his/her knowledge and understanding of the basic concepts of Human Resources Management like planning…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "IBM DataStage (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
+      "description": "IBM DataStage (New): Multi-choice test that measures the knowledge on the concepts of Data Warehouse fundamentals, DataStage fundamentals, DataStage stages and, DataStage Designer…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "IBM Sterling Order Management System (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+      "description": "IBM Sterling Order Management System (New): Multi-choice test that measures the knowledge of the basic concepts of Sterling Order Management System installation, modeling, extensibility, inventory…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Industrial Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
+      "description": "Industrial Engineering (New): Multi-choice test that measures the conceptual knowledge of design, quality control, reliability, management and costing of manufacturing systems.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Informatica (Architecture) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
+      "description": "Informatica (Architecture) (New): Multi-choice test that measures the knowledge of data warehousing, server architecture and administration, and real time implementation with Informatica.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Informatica (Developer) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
+      "description": "Informatica (Developer) (New): Multi-choice test that measures the knowledge of data warehousing, server architecture and administration, and real time implementation with Informatica.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Instrumentation Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
+      "description": "Instrumentation Engineering (New): Multi-choice test that measures the conceptual knowledge of instrumentation, electronics, signals and communication systems.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Interpersonal Communications",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+      "description": "Interpersonal Communications: This adaptive test measures the candidate's knowledge of how to employ effective verbal and non-verbal communication to send his or her message and manage…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Interviewing and Hiring Concepts (U.S.)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+      "description": "Interviewing and Hiring Concepts (U.S.): The Interviewing and Hiring Concepts (U.S.) test measures knowledge of the interviewing and hiring process. Designed for all employees and hiring managers…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "iOS Development (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
+      "description": "iOS Development (New): Multi-choice test that measures the knowledge of Objective C, NSObject, iOS fundamentals and UI design on iOS phones.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "ITIL (IT Infrastructure Library) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
+      "description": "ITIL (IT Infrastructure Library) (New): Multi-choice test that measures the knowledge of capacity management, change management and problem management.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+      "description": "Java 2 Platform Enterprise Edition 1.4 Fundamental: The Java 2 Platform Enterprise Edition (J2EE) 1.4 Fundamentals test measures knowledge of basic J2EE 1.4 Fundamentals. Designed for entry-level users, this…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Java 8 (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+      "description": "Java 8 (New): Multi-choice test that measures the knowledge of Java class design, exceptions, generics, collections, concurrency, JDBC and Java I/O fundamentals.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Java Design Patterns (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+      "description": "Java Design Patterns (New): Multi-choice test that measures the knowledge of the types of design patterns in Java and principles like threads and refactoring used in Java design patterns.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Java Frameworks (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+      "description": "Java Frameworks (New): Multi-choice test that measures the knowledge of different Java frameworks - Struts, Hibernate and Spring.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+      "description": "Java Platform Enterprise Edition 7 (Java EE 7): The Java Platform Enterprise Edition 7 (Java EE 7) test measures knowledge of the Java EE 7 architecture. Designed for Java programmers and architects, this…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Java Web Services (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
+      "description": "Java Web Services (New): Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, file handling, exception handling, threads, generics and inner class.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "JavaScript (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+      "description": "JavaScript (New): Multi-choice test that measures knowledge of programming in the JavaScript language and its application in front-end development.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Jenkins (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+      "description": "Jenkins (New): Multi-choice test that measures the knowledge of Jenkins configuration and deployment, plugins, nodes, build jobs and testing.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Job Control Language (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
+      "description": "Job Control Language (New): Multi-choice test that measures the knowledge of JCL libraries, parameters, statements, datasets, generation of data groups and conditional processing.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "jQuery (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+      "description": "jQuery (New): Multi-choice test that measures the knowledge of jQuery events and effects, jQuery animation, UI, references, and using jQuery with AJAX.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Kubernetes (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+      "description": "Kubernetes (New): Multi-choice test that measures the knowledge of the architecture, cluster and services of Kubernetes.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Linux Administration (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+      "description": "Linux Administration (New): Multi-choice test that measures knowledge of the Linux operating system and its application in system administration and network administration.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Linux Operating System",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
+      "description": "Linux Operating System : Multi-choice test that measures the knowledge of Linux system, command line, filesystem, memory management, and process management.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Linux Programming (General)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+      "description": "Linux Programming (General): The Linux Programming (General) test measures knowledge of programming in a Linux environment. Designed for experienced programmers, this test covers the…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Load Runner (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
+      "description": "Load Runner (New): Multi-choice test that measures the knowledge on the concepts of Load Runner architecture & installation, virtual user generator (VUGEN), controller…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Management Scenarios",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+      "description": "Management Scenarios: Managerial Scenarios is a unique test of Managerial Judgement - an individual’s ability to decide on effective ways of handling real life situations. It…",
+      "test_type": {
+        "codes": [
+          "B"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Managerial Scenarios Candidate Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
+      "description": "Managerial Scenarios Candidate Report: Managerial Scenarios is a unique test of Managerial Judgement - an individual’s ability to decide on effective ways of handling real life situations. It…",
+      "test_type": {
+        "codes": [
+          "B"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Managerial Scenarios Narrative Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
+      "description": "Managerial Scenarios Narrative Report: Managerial Scenarios is a unique test of Managerial Judgement - an individual’s ability to decide on effective ways of handling real life situations. It…",
+      "test_type": {
+        "codes": [
+          "B"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Managerial Scenarios Profile Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
+      "description": "Managerial Scenarios Profile Report: Managerial Scenarios is a unique test of Managerial Judgement - an individual’s ability to decide on effective ways of handling real life situations. It…",
+      "test_type": {
+        "codes": [
+          "B"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Manual Testing (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+      "description": "Manual Testing (New): Multi-choice test that measures the knowledge of the software testing life cycle, testing tools and techniques, design of test cases and generation of test…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+      "description": "Manufac. & Indust. - Mechanical & Vigilance 8.0: The Manufacturing & Industrial Mechanical & Vigilance Focus 8.0 Job-Focused Assessment measures the behaviors that underlie successful and safe performance…",
+      "test_type": {
+        "codes": [
+          "A",
+          "P"
+        ],
+        "categories": [
+          "Ability & Aptitude",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Manufac. & Indust. - Safety & Dependability 8.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+      "description": "Manufac. & Indust. - Safety & Dependability 8.0: The Manufacturing & Industrial Safety & Dependability Focus 8.0 Job-Focused Assessment measures the behaviors that underlie safe performance in a work…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Manufacturing & Industrial - Essential Focus 8.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
+      "description": "Manufacturing & Industrial - Essential Focus 8.0: The Manufacturing & Industrial Essential 8.0 Job-Focused Assessment measures the behaviors that underlie successful and safe performance in an…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
+      "description": "Manufacturing & Industrial - Mechanical Focus 8.0: The Manufacturing & Industrial Mechanical Focus 8.0 Job-Focused Assessment measures the behaviors that underlie successful and safe performance in an…",
+      "test_type": {
+        "codes": [
+          "A",
+          "P"
+        ],
+        "categories": [
+          "Ability & Aptitude",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
+      "description": "Manufacturing & Industrial - Vigilance Focus 8.0: The Manufacturing and Industrial Vigilance Focus 8.0 Job-Focused Assessment measures the behaviors that underlie successful and safe performance in an…",
+      "test_type": {
+        "codes": [
+          "A",
+          "P"
+        ],
+        "categories": [
+          "Ability & Aptitude",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Marketing (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
+      "description": "Marketing (New): Multi-choice test that measures the conceptual knowledge of marketing principles, market research, consumer behavior, brand management, sales management…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Maven (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/maven-new/",
+      "description": "Maven (New): Multi-choice test that measures the knowledge of Maven installation, dependencies, Project Object Model (POM), builds and plugins.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Mechanical Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
+      "description": "Mechanical Engineering (New): Multi-choice test that measures the conceptual knowledge of fluid and machine mechanics, thermodynamics, IC engines and manufacturing science.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Mechatronics Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
+      "description": "Mechatronics Engineering (New): Multi-choice test that measures the knowledge related to basic mechatronics systems, components, sensors, feedback devices, control elements, actuators…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Medical Terminology (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+      "description": "Medical Terminology (New): Multi-choice test that measures the knowledge of different medical terms and abbreviations related to the human body, diseases and diagnosis.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Metallurgical Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
+      "description": "Metallurgical Engineering (New): Multi-choice test that measures the knowledge of process metallurgy, industrial metallurgy and physical metallurgy.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MFS 360 Enterprise Leadership Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+      "description": "MFS 360 Enterprise Leadership Report: The layout of this report follows the standard MFS 360 report but this is based on the Enterprise Leadership competency model, not the UCF model. The report…",
+      "test_type": {
+        "codes": [
+          "D"
+        ],
+        "categories": [
+          "Development & 360"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MFS 360 UCF Group Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
+      "description": "MFS 360 UCF Group Report: This report follows the standard layout of the 360 report but incorporates the average scores for a group of participants. The report can be generated for all…",
+      "test_type": {
+        "codes": [
+          "D"
+        ],
+        "categories": [
+          "Development & 360"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MFS 360 UCF Performance Potential Dev Tips Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+      "description": "MFS 360 UCF Performance Potential Dev Tips Report: This report is more or less identical to the standard MFS report but with an additional section that looks at the performance versus the potential and plots…",
+      "test_type": {
+        "codes": [
+          "D"
+        ],
+        "categories": [
+          "Development & 360"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MFS 360 UCF Standard Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
+      "description": "MFS 360 UCF Standard Report: This is the default MFS report. It is based on the UCF20 competency model. The report will only show those scales that were selected as part of the…",
+      "test_type": {
+        "codes": [
+          "D"
+        ],
+        "categories": [
+          "Development & 360"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Micro Focus Unified Functional Testing (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+      "description": "Micro Focus Unified Functional Testing (New): Multi-choice test that measures the knowledge of automation testing using the QTP tool.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Microservices (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
+      "description": "Microservices (New): Multi-choice test that measures the knowledge of Microservices architecture, SOA, and Microservices patterns.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Microsoft Dynamics Development (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
+      "description": "Microsoft Dynamics Development (New): Multi-choice test that measures the knowledge of Microsoft Dynamics installation, sales process, service management, administration, configuration, entity…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Microsoft Excel 365 - Essentials (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+      "description": "Microsoft Excel 365 - Essentials (New): The Microsoft Excel 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the…",
+      "test_type": {
+        "codes": [
+          "K",
+          "S"
+        ],
+        "categories": [
+          "Knowledge & Skills",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Microsoft Excel 365 (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+      "description": "Microsoft Excel 365 (New): The Microsoft Excel 365 simulation evaluates ability to perform certain operations in a simulated environment of MS Excel, and includes the following topics…",
+      "test_type": {
+        "codes": [
+          "K",
+          "S"
+        ],
+        "categories": [
+          "Knowledge & Skills",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Microsoft Outlook 2013 (adaptive)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+      "description": "Microsoft Outlook 2013 (adaptive): The Microsoft Outlook 2013 (adaptive) test measures knowledge of Microsoft Outlook 2013. Designed for professionals, this test includes the following topics…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Microsoft PowerPoint 365 - Essentials (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+      "description": "Microsoft PowerPoint 365 - Essentials (New): The Microsoft PowerPoint 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of Microsoft PowerPoint, and…",
+      "test_type": {
+        "codes": [
+          "K",
+          "S"
+        ],
+        "categories": [
+          "Knowledge & Skills",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Microsoft SQL Server 2014 Programming",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+      "description": "Microsoft SQL Server 2014 Programming: The Microsoft SQL Server 2014 Programming test measures knowledge of Microsoft Structure Query Language (SQL) Server 2014 Programming. Designed for experienced…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Microsoft Windows Server 2012 Administration",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+      "description": "Microsoft Windows Server 2012 Administration: The Microsoft Windows Server 2012 Administration test measures knowledge of Windows Server Administration. Designed for experienced Network Administrators…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Microsoft Word 365 - Essentials (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+      "description": "Microsoft Word 365 - Essentials (New): The Microsoft Word 365 - Essentials simulation evaluates ability to perform certain operations in a simulated environment of Microsoft Word, and includes the…",
+      "test_type": {
+        "codes": [
+          "K",
+          "S"
+        ],
+        "categories": [
+          "Knowledge & Skills",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Microsoft Word 365 (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+      "description": "Microsoft Word 365 (New): The Microsoft Word 365 simulation evaluates ability to perform certain operations in a simulated environment of Microsoft Word, and includes the following…",
+      "test_type": {
+        "codes": [
+          "S",
+          "K"
+        ],
+        "categories": [
+          "Simulations",
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Mineral Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
+      "description": "Mineral Engineering (New): Multi-choice test that measures the knowledge of comminution and classification, physical separation process, particle technology, metallurgical…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Mining Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
+      "description": "Mining Engineering (New): Multi-choice test that measures the knowledge of mining methods, mineral processing, mining machinery, mineralogy, petrology and stratigraphy.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Mobility (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
+      "description": "Mobility (New): Multi-choice test that measures the knowledge on topics related to mobility and mobile computing.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Molecular Biology (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
+      "description": "Molecular Biology (New): Multi-choice test that measures the knowledge of molecular genetics, transgenics, rDNA technology, chromosomal genetics, transformation and related processes.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MongoDB (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
+      "description": "MongoDB (New): Multi-choice test that measures the conceptual knowledge of MongoDB like sharding, replication, indexing, security and storage. It also checks the knowledge of…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Motivation Questionnaire MQM5",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+      "description": "Motivation Questionnaire MQM5: By understanding what motivates their staff, managers can unlock each individual’s full potential and direct their energies more constructively. This…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MQ Candidate Motivation Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
+      "description": "MQ Candidate Motivation Report: The Candidate Motivation Report is designed as a feedback report for the individual. It provides an in-depth and easy-to-understand evaluation of an…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MQ Employee Motivation Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
+      "description": "MQ Employee Motivation Report: The MQ Employee Motivation Report is ideal for use by line managers and those concerned with employee’s performance and well being, the Employee Motivation…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MQ Motivation Report Pack",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
+      "description": "MQ Motivation Report Pack: The MQ Report pack consists of the Profile Chart, Employee Motivation Report and the Candidate Report and is a cost effective way of ensuring that your…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MQ Profile",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mq-profile/",
+      "description": "MQ Profile: The profile chart is the Sten score graphical output of the MQ. It clearly shows the individual’s motivational drivers compared to the selected norm group as…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MS Access (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
+      "description": "MS Access (New): Multi-choice test that measures the knowledge and basic understanding of MS Access programming.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MS Excel (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+      "description": "MS Excel (New): Multi-choice test that measures the ability to use MS Excel to maintain, organize, analyze and present numeric data.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MS Office Basic Computer Literacy (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+      "description": "MS Office Basic Computer Literacy (New): Multi-choice test that measures the ability to use MS Word, MS Excel and MS PowerPoint to perform basic tasks on a computer.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MS Office Basic Computer Literacy (Sim) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+      "description": "MS Office Basic Computer Literacy (Sim) (New): Simulation based test that measures the ability to use basic computer operations, browser navigation, MS office and email.",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MS PowerPoint (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
+      "description": "MS PowerPoint (New): Multi-choice test that measures the knowledge of MS PowerPoint toolbars, slide layouts, animation, slideshow, slide designs and formats.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MS Word (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+      "description": "MS Word (New): Multi-choice test that measures the ability to use MS Word to record and save textual information.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "MuleSoft Development (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
+      "description": "MuleSoft Development (New): Multi-choice test that measures the knowledge of MuleSoft basic concepts, APIs and web services, Mule flow and scope, connectors and deployment.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Multitasking Ability",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
+      "description": "Multitasking Ability: The Multitasking Ability assessment is a measure of one’s ability to adeptly work on more than one task simultaneously, while maintaining efficiency and…",
+      "test_type": {
+        "codes": [
+          "A",
+          "K",
+          "S"
+        ],
+        "categories": [
+          "Ability & Aptitude",
+          "Knowledge & Skills",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Networking and Implementation (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+      "description": "Networking and Implementation (New): Multi-choice test that measures the knowledge of networking devices, protocols, reference models, routing and implementation of networks.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Node.js (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/node-js-new/",
+      "description": "Node.js (New): Multi-choice test that measures the basic knowledge of Node.js such as events, streams, file system, error handling, concurrency, DB handling and express…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Nursing (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/nursing-new/",
+      "description": "Nursing (New): Multi-choice test that measures the knowledge of carrying out various nursing tasks.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Occupational Personality Questionnaire OPQ32r",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+      "description": "Occupational Personality Questionnaire OPQ32r: The SHL Occupational Personality Questionnaire, the OPQ32, is one of the most widely used and respected measures of workplace behavioural style in the world…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Operations Management (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
+      "description": "Operations Management (New): Multi-choice test that measures the knowledge of planning, product design and development, quality management and supply chain management.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Candidate Plus Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
+      "description": "OPQ Candidate Plus Report: A brief narrative OPQ (Occupational Personality Questionnaire) report designed to be given to the individual who completed the OPQ.",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Candidate Report 2.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
+      "description": "OPQ Candidate Report 2.0: A brief narrative OPQ (Occupational Personality Questionnaire) report structure around 3 OPQ profile sections which can be given to candidates to keep after a…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Emotional Intelligence Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+      "description": "OPQ Emotional Intelligence Report: This OPQ (Occupational Personality Questionnaire) report explores how a person manages feelings and relationships with other people. It is intended for use in…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Leadership Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+      "description": "OPQ Leadership Report: This OPQ (Occupational Personality Questionnaire) report provides a detailed analysis of an individual's leadership potential. It is based on SHL's leading…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Manager Plus Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
+      "description": "OPQ Manager Plus Report: This concise OPQ (Occupational Personality Questionnaire) report is designed for use with and by managers. It uses clear succinct bullets and tables for ease…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Manager Plus Report 2.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
+      "description": "OPQ Manager Plus Report 2.0: This concise OPQ (Occupational Personality Questionnaire) report is designed for use with and by managers. It uses clear succinct bullets and tables for ease…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Maximising your Learning Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
+      "description": "OPQ Maximising your Learning Report: This OPQ (Occupational Personality Questionnaire) report is designed to help people get the most from their development. It summarises the preferred approach…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ MQ Sales Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+      "description": "OPQ MQ Sales Report: This OPQ (Occupational Personality Questionnaire) report provides a graphical and narrative summary of an individual's natural style that is critical to sales…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Premium Plus Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
+      "description": "OPQ Premium Plus Report: This OPQ (Occupational Personality Questionnaire) report contains a selection of reports including OPQ profile, user report, manager plus report, candidate…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Premium Plus Report 2.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
+      "description": "OPQ Premium Plus Report 2.0 : This OPQ (Occupational Personality Questionnaire) report contains a selection of reports including OPQ profile, user report, manager plus report, candidate…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Profile Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
+      "description": "OPQ Profile Report: This is a graphical profile charts presenting results across the 32 OPQ scales. It is designed to be interpreted by OPQ trained users only. Please note this…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Team Impact Group Development Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
+      "description": "OPQ Team Impact Group Development Report: These reports are based on the SHL Team Impact Model, which is focused on actual team processes. They are supported by clear and easy to understand graphics…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Team Impact Individual Development Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
+      "description": "OPQ Team Impact Individual Development Report: These reports are based on the SHL Team Impact Model, which is focused on actual team processes. They are supported by clear and easy to understand graphics…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Team Impact Selection Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
+      "description": "OPQ Team Impact Selection Report: These reports are based on the SHL Team Impact Model, which is focused on actual team processes. They are supported by clear and easy to understand graphics…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Team Types & Leadership Styles Profile",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+      "description": "OPQ Team Types & Leadership Styles Profile: This OPQ (Occupational Personality Questionnaire) report is based on Belbin's team types and Bass's leadership and reporting styles. Belbins team types…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Team Types and Leadership Styles Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+      "description": "OPQ Team Types and Leadership Styles Report: This OPQ (Occupational Personality Questionnaire) report is based on Belbin's team types and Bass's leadership and reporting styles. Belbins team types…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ UCF Development Action Planner Report 1.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+      "description": "OPQ UCF Development Action Planner Report 1.0: This OPQ (Occupational Personality Questionnaire) report provides clear and relevant information about an individual's strengths and areas for development, for…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ UCF Development Action Planner Report 2.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+      "description": "OPQ UCF Development Action Planner Report 2.0: This OPQ (Occupational Personality Questionnaire) report provides clear and relevant information about an individual's strengths and areas for development, for…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Universal Competency Report 1.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
+      "description": "OPQ Universal Competency Report 1.0: This OPQ (Occupational Personality Questionnaire) report is based on the Universal Competency framework. It graphically outlines how an individual's typical…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ Universal Competency Report 2.0",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+      "description": "OPQ Universal Competency Report 2.0: This OPQ (Occupational Personality Questionnaire) report is based on the Universal Competency framework. It graphically outlines how an individual's typical…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ User and Managers Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
+      "description": "OPQ User and Managers Report: This OPQ (Occupational Personality Questionnaire) report consists of two reports. The User Report includes a Profile Chart and narrative text, focusing on an…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "OPQ User Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
+      "description": "OPQ User Report: This OPQ (Occupational Personality Questionnaire) report includes a Profile Chart and narrative text, focusing on an individuals likely way of behaving at…",
+      "test_type": {
+        "codes": [
+          "P",
+          "S"
+        ],
+        "categories": [
+          "Personality & Behavior",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Oracle DBA (Advanced Level) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
+      "description": "Oracle DBA (Advanced Level) (New): Multi-choice test that measures the knowledge of Oracle DB architecture, backup and recovery, MySQL administration and advanced topics such as network…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Oracle DBA (Entry Level) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
+      "description": "Oracle DBA (Entry Level) (New): Multi-choice test that measures the knowledge of Oracle database architecture, data management, backup and recovery, and MySQL administration.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Oracle PL/SQL (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
+      "description": "Oracle PL/SQL (New): Multi-choice test that measures the knowledge of SQL queries, relational database concepts and specific Oracle PL/SQL features.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Oracle WebLogic Server (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
+      "description": "Oracle WebLogic Server (New): Multi-choice test that measures the knowledge of the concepts of WebLogic such as server installation, administration, node, logs manager, security and…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Organic Chemistry (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
+      "description": "Organic Chemistry (New): Multi-choice test that measures the knowledge of the basic concepts in organic chemistry.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Paint Technology (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
+      "description": "Paint Technology (New): Multi-choice test that measures the knowledge of paint raw materials and precursors, manufacture of different types of coatings, surface treatment and coating…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Pediatrics (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
+      "description": "Pediatrics (New): Multi-choice test that measures the basic knowledge of pediatric diseases, their symptoms and the medicines administered to cure or prevent them.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Pega Development (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
+      "description": "Pega Development (New): Multi-choice test that measures the knowledge of Pega architecture, user interface, rule and user management, case management, integration with external…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Perl (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/perl-new/",
+      "description": "Perl (New): Multi-choice test that measures the knowledge of Perl scripting used for text manipulation, web development, system administration, etc.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Petrochemical Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
+      "description": "Petrochemical Engineering (New): Multi-choice test that measures the knowledge of fluid and thermal principles of petrochemical engineering, chemical processes, petroleum composition and…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Petroleum Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
+      "description": "Petroleum Engineering (New): Multi-choice test that measures the knowledge of petroleum engineering, drilling and production operations and offshore petroleum production.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Pharmaceutical Analysis (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
+      "description": "Pharmaceutical Analysis (New): Multi-choice test that measures the knowledge of laboratory analytical techniques such as chromatography, titration, spectroscopy, and spectrophotometry.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Pharmaceutical Chemistry (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
+      "description": "Pharmaceutical Chemistry (New): Multi-choice test that measures the knowledge of physical chemistry, organic chemistry, inorganic chemistry, biochemistry and medicinal chemistry.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Pharmaceutical Science (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
+      "description": "Pharmaceutical Science (New): Multi-choice test that measures the knowledge of drug manufacture, drug delivery, drug action, and pharmaceutical analysis techniques.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Pharmaceutics (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
+      "description": "Pharmaceutics (New): Multi-choice test that measures the knowledge of pharmaceutical engineering and technology for drug manufacture, biopharmaceutics, modern pharmaceutics and…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Pharmacology (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
+      "description": "Pharmacology (New): Multi-choice test that measures the knowledge of pharmacological drugs classification, chemotherapy, inflammatory disorders, drug action on nervous system…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "PHP (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/php-new/",
+      "description": "PHP (New): Multi-choice test that measures the knowledge of OOPs & programming constructs, web & database handling and advanced PHP.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "PJM Development Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
+      "description": "PJM Development Report: The Person-Job Match Report is unique in that it matches the performance potential of the individual to the job’s specific competencies. This provides you…",
+      "test_type": {
+        "codes": [
+          "C",
+          "A",
+          "P"
+        ],
+        "categories": [
+          "Competencies",
+          "Ability & Aptitude",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "PJM Selection Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
+      "description": "PJM Selection Report: The PJM Report provides a clear indication of each candidate's \"degree of fit\" to a role. Provides targeted assessment results that match individuals with…",
+      "test_type": {
+        "codes": [
+          "A",
+          "C",
+          "P"
+        ],
+        "categories": [
+          "Ability & Aptitude",
+          "Competencies",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Polymer Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
+      "description": "Polymer Engineering (New): Multi-choice test that measures the knowledge of characterization of polymers, processing, synthesis, testing and applications in daily life.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Power Electronics and Drives (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
+      "description": "Power Electronics and Drives (New): Multi-choice test that measures the knowledge of power semiconductor devices, power electronic converters, drives and control systems.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Power System Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
+      "description": "Power System Engineering (New): Multi-choice test that measures the knowledge of power generation and transmission, electrical machines, power systems and drives, control and instrumentation…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Prism (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/prism-new/",
+      "description": "Prism (New): Multi-choice test that measures the knowledge of modules, patterns and other basic concepts of using the Prism library.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Production and Industrial Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
+      "description": "Production and Industrial Engineering (New): Multi-choice test that measures the knowledge of production technology, quality management, and design and planning of manufacturing systems.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Production Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
+      "description": "Production Engineering (New): Multi-choice test that measures the knowledge of production technology and analysis, metal cutting, tool design, material science and CIM.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Programming Concepts",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
+      "description": "Programming Concepts: The Programming Concepts test measures knowledge of the core aspects of computer science programming that is valid across programming languages. Designed for…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Project Management (2013)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
+      "description": "Project Management (2013): The Project Management (2013) test measures knowledge of how to manage projects to ensure that objectives are completed on time and within budget. The test is…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Proofreading v1",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
+      "description": "Proofreading v1: This assessment measures ability to read for errors involving spelling, punctuation, grammar and word choice. It also measures ability to correct those errors.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Python (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/python-new/",
+      "description": "Python (New): Multi-choice test that measures the knowledge of Python programming, databases, modules and library.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "R Programming (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
+      "description": "R Programming (New): Multi-choice test that measures the knowledge of R programming and its application in statistics.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "ReactJS (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
+      "description": "ReactJS (New): Multi-choice test that measures the technical knowledge of React APIs, render function, JSX, form validation and styling.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Reading Comprehension - English v1",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
+      "description": "Reading Comprehension - English v1: The Reading Comprehension - English assessment provides a general measure of English reading comprehension. This test is comprised of items that contain…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Reading Comprehension - Spanish v1",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
+      "description": "Reading Comprehension - Spanish v1: The Reading Comprehension - Spanish assessment provides a general measure of Spanish reading comprehension. This test is comprised of items that contain a…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Reading Comprehension v2",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
+      "description": "Reading Comprehension v2: The Reading Comprehension - English assessment provides a general measure of English reading comprehension. This test is comprised of items that contain…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "RemoteWorkQ",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
+      "description": "RemoteWorkQ: Using the Apta™ Architecture to focus on the relevant competency behaviors in the Universal Competency Framework, SHL developed the RemoteWorkQ to measure…",
+      "test_type": {
+        "codes": [
+          "C"
+        ],
+        "categories": [
+          "Competencies"
+        ]
+      }
+    },
+    {
+      "assessment_name": "RemoteWorkQ Manager Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
+      "description": "RemoteWorkQ Manager Report: Using the Apta™ Architecture to focus on the relevant competency behaviors in the Universal Competency Framework, SHL developed the RemoteWorkQ to measure…",
+      "test_type": {
+        "codes": [
+          "C"
+        ],
+        "categories": [
+          "Competencies"
+        ]
+      }
+    },
+    {
+      "assessment_name": "RemoteWorkQ Participant Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
+      "description": "RemoteWorkQ Participant Report : Using the Apta™ Architecture to focus on the relevant competency behaviors in the Universal Competency Framework, SHL developed the RemoteWorkQ to measure…",
+      "test_type": {
+        "codes": [
+          "C"
+        ],
+        "categories": [
+          "Competencies"
+        ]
+      }
+    },
+    {
+      "assessment_name": "RESTful Web Services (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+      "description": "RESTful Web Services (New): Multi-choice test that measures the knowledge of REST features, architecture, handling requests, producing responses, entity translation, working with return…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Retail Sales and Service Simulation",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
+      "description": "Retail Sales and Service Simulation: The Retail Sales and Service Simulation measures the ability of a candidate to choose effective sales and service techniques while interacting with customers…",
+      "test_type": {
+        "codes": [
+          "B",
+          "K",
+          "S",
+          "A"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement",
+          "Knowledge & Skills",
+          "Simulations",
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Reviewing Forms - US (R1)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
+      "description": "Reviewing Forms - US (R1): This assessment measures ability to detect errors in forms by comparing text in a form to text in a paragraph format. Based on information in the paragraph…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Ruby (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ruby-new/",
+      "description": "Ruby (New): Multi-choice test that measures the knowledge of Ruby strings, collection classes, regular expressions, methods, object oriented programming, exception…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Ruby on Rails (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
+      "description": "Ruby on Rails (New): Multi-choice test that measures the knowledge of Ruby Programming, Rails installation, Rails MVC and Rails programming model.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Sales & Service Phone Simulation",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
+      "description": "Sales & Service Phone Simulation : As part of Contact Center Simulations, the Sales & Service Phone Simulation is designed for contact center roles that involve sales or sales-related behaviors…",
+      "test_type": {
+        "codes": [
+          "S",
+          "B"
+        ],
+        "categories": [
+          "Simulations",
+          "Biodata & Situational Judgement"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Sales & Service Phone Solution",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
+      "description": "Sales & Service Phone Solution: As part of Contact Center Simulations, the Sales & Service Phone Solution includes a contact center simulation and three behavioral tests designed to measure a…",
+      "test_type": {
+        "codes": [
+          "B",
+          "P",
+          "S"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement",
+          "Personality & Behavior",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Sales Interview Guide",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
+      "description": "Sales Interview Guide: The SHL Sales Model is mapped to the SHL Universal Competency Model (UCF). The Sales Model Interview guide was developed to enable you to use the Sales Report…",
+      "test_type": {
+        "codes": [
+          "P",
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Sales Profiler Cards",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
+      "description": "Sales Profiler Cards: The SHL Sales Model is mapped to the SHL Universal Competency Model (UCF). The Sales Model Profiler cards have been developed to enable you to use the Sales…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Sales Transformation 1.0 - Individual Contributor",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+      "description": "Sales Transformation 1.0 - Individual Contributor: This report draws insights from the OPQ. It provides an accurate and objective measure of a salesperson’s ability to sell well in a digital first environment…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Sales Transformation 2.0 - Individual Contributor",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+      "description": "Sales Transformation 2.0 - Individual Contributor: This report draws insights from the OPQ. It provides an accurate and objective measure of a salesperson’s ability to sell well in a digital first environment…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Sales Transformation Report 1.0 - Sales Manager",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
+      "description": "Sales Transformation Report 1.0 - Sales Manager: This report combines insights from the OPQ and a Sales Management questionnaire. It provides an accurate and objective measure of a sales manager’s capability…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Sales Transformation Report 2.0 - Sales Manager",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+      "description": "Sales Transformation Report 2.0 - Sales Manager: This report combines insights from the OPQ and a Sales Management questionnaire. It provides an accurate and objective measure of a sales manager’s capability…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Salesforce Development (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
+      "description": "Salesforce Development (New): Multi-choice test that measures the knowledge of Salesforce platform, design and data models, business logic, data management and analytics.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SAP ABAP (Advanced Level) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
+      "description": "SAP ABAP (Advanced Level) (New): Multi-choice test that measures the knowledge of SAP ABAP dictionary, dialog programming, reports, enhancements, workflows, optimizations and advanced ABAP…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SAP ABAP (Intermediate Level) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
+      "description": "SAP ABAP (Intermediate Level) (New): Multi-choice test that measures the knowledge of SAP ABAP dictionary, elements, operations, architecture, ABAP data types, ABAP reporting, batch data…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SAP Basis (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
+      "description": "SAP Basis (New): Multi-choice test that measures the knowledge of SAP architecture, database administration, background processing, user administration, client administration…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SAP Business Objects WebI (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
+      "description": "SAP Business Objects WebI (New): Multi-choice test that measures the knowledge of SAP interactive analysis, reporting, formatting and scheduling documents.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SAP BW (Business Warehouse) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
+      "description": "SAP BW (Business Warehouse) (New): Multi-choice test that measures the knowledge of SAP architecture, meta data, data modelling, extraction, loading, scheduling, data reporting, performance…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SAP HCM (Human Capital Management) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+      "description": "SAP HCM (Human Capital Management) (New): Multi-choice test that measures the knowledge of SAP HR/ HCM structure, personnel administration, SAP HCM tasks, SAP HCM SuccessFactors solutions.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SAP Hybris (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
+      "description": "SAP Hybris (New): Multi-choice test that measures the knowledge of Hybris extensions, its architecture, configuration, data modelling and management, service layer programming…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SAP Materials Management (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
+      "description": "SAP Materials Management (New): Multi-choice test that measures the knowledge of SAP materials management, organization units integration, purchasing, pricing, release procedure, contracts…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SAP SD (Sales and Distribution) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+      "description": "SAP SD (Sales and Distribution) (New): Multi-choice test that measures the knowledge of ERP basics, SAP architecture, sales, distribution, master data, documents, basic functions in S&D, billing…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Search Engine Optimization (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
+      "description": "Search Engine Optimization (New): Multi-choice test that measures the knowledge on the concepts of need of SEO, SEO planning, SEO strategies, SEO software, tools and exchanging links.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Selenium (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/selenium-new/",
+      "description": "Selenium (New): Multi-choice test that measures the knowledge of Selenium IDE, Selenium RC, Selenium grid, web driver, test design considerations, user extensions, frameworks…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Shell Scripting (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
+      "description": "Shell Scripting (New): Multi-choice test that measures the knowledge of Shell scripting to perform operations such as file manipulation, program execution and printing text.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SHL Verify Interactive - Inductive Reasoning",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+      "description": "SHL Verify Interactive - Inductive Reasoning: Evaluates ability to identify specific patterns in data or situations and generalize that information to broader contexts.",
+      "test_type": {
+        "codes": [
+          "A",
+          "S"
+        ],
+        "categories": [
+          "Ability & Aptitude",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SHL Verify Interactive – Deductive Reasoning",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+      "description": "SHL Verify Interactive – Deductive Reasoning: Measures the ability to draw logical conclusions based on information provided, identify strengths and weaknesses of arguments, and complete scenarios using…",
+      "test_type": {
+        "codes": [
+          "A",
+          "S"
+        ],
+        "categories": [
+          "Ability & Aptitude",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SHL Verify Interactive – Numerical Reasoning",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+      "description": "SHL Verify Interactive – Numerical Reasoning: Assesses how the candidate comprehends numerical information in various formats.",
+      "test_type": {
+        "codes": [
+          "A",
+          "S"
+        ],
+        "categories": [
+          "Ability & Aptitude",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SHL Verify Interactive G+",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+      "description": "SHL Verify Interactive G+: SHL Verify Interactive G+ (SVIG+) is a test of general cognitive ability that also generates accurate assessments of three specific abilities: Deductive…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SHL Verify Interactive Numerical Calculation",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+      "description": "SHL Verify Interactive Numerical Calculation: The Verify Interactive Numerical Calculation test measures a candidate’s ability to work with numbers and use appropriate mathematics in different situations…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Siebel Development (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
+      "description": "Siebel Development (New): Multi-choice test that measures the knowledge of Siebel basics, architecture server administration, access control, Siebel client and web applications, Siebel…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Smart Interview Live",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
+      "description": "Smart Interview Live: SHL Live Video Interview is a real-time video interview tool. It allows recruiters and line managers to remotely engage with candidates and reach hiring…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Smart Interview Live Coding",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+      "description": "Smart Interview Live Coding: Smart Interview Live Coding is a real-time online coding interview, with a compiler interface. It enables one-to-one, panel and group interviews. Use Smart…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Smart Interview On Demand",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
+      "description": "Smart Interview On Demand: Smart Interview On Demand is a recorded (asynchronous) video interview tool, that introduces you to each person behind the resume with a short-recorded video…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Social Media (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/social-media-new/",
+      "description": "Social Media (New): Multi-choice test that measures the knowledge about the different social media platforms.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Software Business Analysis",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
+      "description": "Software Business Analysis: The Software Business Analysis test measures ability to acquire and understand business requirements for an IT project, develop technical assets in support of…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SonarQube (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
+      "description": "SonarQube (New): Multi-choice test that measures the knowledge of SonarQube, integration tests, Sonar symbols, wildcards, quality cover and Sonar architecture.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Spelling (U.S.) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
+      "description": "Spelling (U.S.) (New): Multi-choice test that measures the knowledge of correct spellings in English and the ability to identify spelling errors in sentences.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Split Screen Typing Test - Form 1",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
+      "description": "Split Screen Typing Test - Form 1: This test measures speed and accuracy in typing text presented on the computer screen. In this assessment, the text original is displayed directly above the…",
+      "test_type": {
+        "codes": [
+          "A",
+          "K"
+        ],
+        "categories": [
+          "Ability & Aptitude",
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Spring (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+      "description": "Spring (New): Multi-choice test that measures the knowledge of Spring core, AOP, IOC container and transactions.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SQL (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+      "description": "SQL (New): Multi-choice test that measures the knowledge of SQL queries, data manipulation and transaction processing.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SQL Server (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
+      "description": "SQL Server (New): Multi-choice test that measures the knowledge of basic SQL queries, creating and altering tables, filtering, grouping, aggregation in SQL and querying multiple…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SQL Server Analysis Services (SSAS) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+      "description": "SQL Server Analysis Services (SSAS) (New): Multi-choice test that measures the knowledge of SSAS database, querying multidimensional analysis solutions, cube hierarchies, measures, dimensions, power BI…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SQL Server Integration Services (SSIS) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+      "description": "SQL Server Integration Services (SSIS) (New): Multi-choice test that measures the knowledge of SSIS architecture, components, control flow, data flow, transformation, SQL server tasks, SSIS administration…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SQL Server Reporting Services (SSRS) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+      "description": "SQL Server Reporting Services (SSRS) (New): Multi-choice test that measures the knowledge of SSRS architecture, report creation, formatting, calculations, creating matrix reports and charts, grouping…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Statistical Analysis System (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
+      "description": "Statistical Analysis System (New): Multi-choice test that measures the ability to use the SAS software for statistical analysis.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Struts (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/struts-new/",
+      "description": "Struts (New): Multi-choice test that measures the knowledge of Struts framework, configuration, validations, actions and interceptors.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SVAR - Spoken English (AUS)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
+      "description": "SVAR - Spoken English (AUS): An automated spoken English test that measures fluency, pronunciation, active listening, vocabulary, grammar and spoken English understanding. Your use of…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SVAR - Spoken English (Indian Accent)  (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+      "description": "SVAR - Spoken English (Indian Accent) (New): An automated spoken English test that measures fluency, pronunciation, active listening, vocabulary, grammar and spoken English understanding. Your use of…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SVAR - Spoken English (U.K.)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
+      "description": "SVAR - Spoken English (U.K.): An automated spoken English test that measures fluency, pronunciation, active listening, vocabulary, grammar and spoken English understanding. Your use of…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SVAR - Spoken English (US)  (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+      "description": "SVAR - Spoken English (US) (New): An automated spoken English test that measures fluency, pronunciation, active listening, vocabulary, grammar and spoken English understanding. Your use of…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SVAR - Spoken French (Canadian) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
+      "description": "SVAR - Spoken French (Canadian) (New): Test automatisé de français parlé qui évalue l'aisance, la prononciation, l'écoute active, le vocabulaire, la grammaire, et la compréhension du français parl…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SVAR - Spoken French (European) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
+      "description": "SVAR - Spoken French (European) (New): Test automatisé de français parlé qui évalue l'aisance, la prononciation, l'écoute active, le vocabulaire, la grammaire, et la compréhension du français parl…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SVAR - Spoken Spanish (Castilian) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+      "description": "SVAR - Spoken Spanish (Castilian) (New): Test automatizado de español oral que mide la fluidez, la pronunciación, la escucha activa, el vocabulario, la gramática y la comprensión oral del español…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "SVAR - Spoken Spanish (North American) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+      "description": "SVAR - Spoken Spanish (North American) (New): Test automatizado de español oral que mide la fluidez, la pronunciación, la escucha activa, el vocabulario, la gramática y la comprensión oral del español…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Swing (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/swing-new/",
+      "description": "Swing (New): Multi-choice test that measures the knowledge of components, containers, layouts and event handling in Swing.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Tableau (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/tableau-new/",
+      "description": "Tableau (New): Multi-choice test that measures the knowledge of how to use Tableau to prepare tables, create visualizations, perform calculations, apply filters and carry out…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Telecommunications Engineering (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
+      "description": "Telecommunications Engineering (New): Multi-choice test that measures the knowledge of analog communication, digital communication, electromagnetism and microwave engineering.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Teradata Development (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+      "description": "Teradata Development (New): Multi-choice test that measures the knowledge on Teradata concepts of RDBMS components, performance availability features, utilities, workload management…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Time Management (U.S.)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+      "description": "Time Management (U.S.): This is an adaptive test that measures the candidate's knowledge of how to use time wisely in the workplace. It is designed for the average business worker and…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Training Development",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/training-development/",
+      "description": "Training Development: The Training Development test measures knowledge of developing and delivering training programs. Designed for experienced trainers, this test covers the…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Typing (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/typing-new/",
+      "description": "Typing (New): Typing based test that evaluates typing speed and accuracy.",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "UiPath RPA Development (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+      "description": "UiPath RPA Development (New): Multi-choice test that measures the knowledge on UiPath architecture, workflows recording, UI interaction, automation, and orchestrator.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Universal Competency Framework Interview Guide",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+      "description": "Universal Competency Framework Interview Guide: The UCF Interview Guide provides a structured way of gathering information about each candidate and their competency potential across the 20 UCF Dimensions…",
+      "test_type": {
+        "codes": [
+          "C",
+          "P"
+        ],
+        "categories": [
+          "Competencies",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Universal Competency Framework Job profiling guide",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+      "description": "Universal Competency Framework Job profiling guide: The SHL Universal Competency Framework establishes a common language for competencies that underpins SHL’s products and services. It is a single underlying…",
+      "test_type": {
+        "codes": [
+          "C",
+          "P"
+        ],
+        "categories": [
+          "Competencies",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Universal Competency Framework Profiler Cards (44)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+      "description": "Universal Competency Framework Profiler Cards (44): The UCF sets out the key behaviours that drive performance using a standard, proven hierarchy that can be applied to virtually any job at any level, in any…",
+      "test_type": {
+        "codes": [
+          "C",
+          "P"
+        ],
+        "categories": [
+          "Competencies",
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "UNIX (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/unix-new/",
+      "description": "UNIX (New): Multi-choice test that measures the knowledge on the concepts of UNIX commands, file system, file handling, regular expression, awk programming and shell…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "VB.NET (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+      "description": "VB.NET (New): Multi-choice test that measures the knowledge on the concepts of VB.NET assemblies, OOPs concepts, ADO.NET, multithreading, exception handling and GUI.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify - Deductive Reasoning",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+      "description": "Verify - Deductive Reasoning: The Verify Deductive Reasoning Test is an online ability assessment that can be used to support both pre- and post-hire assessment processes. It enables…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify - Following Instructions",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+      "description": "Verify - Following Instructions: This test measures a candidate's ability to follow detailed instructions and then select the correct course of action. Candidates are presented with a set of…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify - G+",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-g/",
+      "description": "Verify - G+: The G+ test is part of the Verify suite of cognitive ability tests. The test is designed to measure three types of ability: Numerical, Deductive, and…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify - General Ability Screen",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+      "description": "Verify - General Ability Screen: The General Ability Screen is a first for us – a measure of general mental ability or ‘g’ . Targeted at ‘entry-level’ roles, General Ability Screen is…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify - Inductive Reasoning (2014)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+      "description": "Verify - Inductive Reasoning (2014): Inductive Reasoning is a test used for job candidates applying to jobs at all levels that require logical reasoning ability. Sample tasks for jobs that may…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify - Numerical Ability",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+      "description": "Verify - Numerical Ability: The next-generation Verify Numerical Ability Test provides a replacement for the existing Numerical Reasoning test in our Verify range of ability tests and the…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify - Technical Checking - Next Generation",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+      "description": "Verify - Technical Checking - Next Generation: The Technical Checking assessment is part of the Verify suite of cognitive ability assessments. Technical Checking measures perceptual speed and accuracy. This…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify - Verbal Ability - Next Generation",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+      "description": "Verify - Verbal Ability - Next Generation: The Verbal Ability test measures the ability to read written passages and comprehend the text, interpret tone and author intent, identify main ideas, and…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify - Working with Information",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+      "description": "Verify - Working with Information: This test measures a candidate's ability to process information. Candidates are given information in different table formats and are asked to use the…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify G+ - Ability Test Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+      "description": "Verify G+ - Ability Test Report: The SHL Verify G+ Ability Test Report provides the candidate's overall General Ability score alongside scores on Numerical, Deductive and Inductive Reasoning…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify G+ - Candidate Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+      "description": "Verify G+ - Candidate Report: The SHL Verify G+ Ability Candidate Report provides the candidate with feedback on their Numerical, Deductive and Inductive Reasoning results. It does not…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify Interactive Ability Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+      "description": "Verify Interactive Ability Report: Verify Interactive Ability Report",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify Interactive G+ Candidate Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+      "description": "Verify Interactive G+ Candidate Report: Verify Interactive G+ Candidate Report",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify Interactive G+ Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+      "description": "Verify Interactive G+ Report: Report for Verify Interactive G+",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Verify Interactive Process Monitoring",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+      "description": "Verify Interactive Process Monitoring : The SHL Verify Range of Ability Tests is a suite of cognitive ability assessments appropriate for candidates at a wide range of job levels. The SHL Process…",
+      "test_type": {
+        "codes": [
+          "A"
+        ],
+        "categories": [
+          "Ability & Aptitude"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Virtual Assessment and Development Centers",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+      "description": "Virtual Assessment and Development Centers: SHL’s innovative virtual assessment centers wow new hires or existing employees and show how you invest in your people. They are a highly engaging experience…",
+      "test_type": {
+        "codes": [
+          "P"
+        ],
+        "categories": [
+          "Personality & Behavior"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Visual Basic for Applications (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+      "description": "Visual Basic for Applications (New): Multi-choice test that measures the knowledge of VBA programming constructs, forms, controls and VBA security.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Visual Comparison - UK",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+      "description": "Visual Comparison - UK: This assessment measures ability to efficiently compare information and detect errors. The test taker is required to examine four pairs of numbers and select…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Visual Comparison - US",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+      "description": "Visual Comparison - US: This assessment measures ability to efficiently compare information and detect errors. The test taker is required to examine four pairs of numbers and select…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "VLSI and Embedded Systems (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+      "description": "VLSI and Embedded Systems (New): Multi-choice test that measures the knowledge of VLSI and embedded systems basics.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "What Is The Value - US",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+      "description": "What Is The Value - US: The What is the Value –US test measures money handling ability. This test is designed for entry-level positions where handling money is required on a regular…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Workplace Administration Skills (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+      "description": "Workplace Administration Skills (New): Multi-choice test that measures the ability to organize one's workplace, properly maintain data, perform simple tasks on the computer and resolve…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Workplace Health and Safety (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+      "description": "Workplace Health and Safety (New): Multi-choice test that measures the knowledge of first aid, emergency safety measures, cleanliness and personal hygiene.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "WriteX - Email Writing (Customer Service) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+      "description": "WriteX - Email Writing (Customer Service) (New): Open response test that evaluates the ability to write proper emails in English. The test provides scores on content, grammar and email etiquette. Your use…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "WriteX - Email Writing (Managerial) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+      "description": "WriteX - Email Writing (Managerial) (New): Open response test that evaluates the ability to write proper emails in English. The test provides scores on content, grammar and email etiquette. Your use…",
+      "test_type": {
+        "codes": [
+          "S"
+        ],
+        "categories": [
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "WriteX - Email Writing (Sales) (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+      "description": "WriteX - Email Writing (Sales) (New): Open response test that evaluates the ability to write proper emails in English. The test provides scores on content, grammar and email etiquette. Your use…",
+      "test_type": {
+        "codes": [
+          "B",
+          "S"
+        ],
+        "categories": [
+          "Biodata & Situational Judgement",
+          "Simulations"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Written English v1",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+      "description": "Written English v1: The Written English test measures knowledge of US English grammar and English reading comprehension. It is designed for those with English as a second language…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Written Spanish",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+      "description": "Written Spanish: This test measures knowledge of Spanish grammar and Spanish reading comprehension skills. Designed primarily for individuals where Spanish is their second…",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "Zabbix (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+      "description": "Zabbix (New): Multi-choice test that measures the knowledge of Zabbix architecture, data handling, monitoring and administration.",
+      "test_type": {
+        "codes": [
+          "K"
+        ],
+        "categories": [
+          "Knowledge & Skills"
+        ]
+      }
+    },
+    {
+      "assessment_name": "360 Digital Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+      "description": "360 Digital Report: Introducing the new 360 Digital Report from SHL! Our latest offering revolutionizes the reporting experience for our 360 products, catering to the modern…",
+      "test_type": {
+        "codes": [
+          "D"
+        ],
+        "categories": [
+          "Development & 360"
+        ]
+      }
+    },
+    {
+      "assessment_name": "360° Multi-Rater Feedback System (MFS)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+      "description": "360° Multi-Rater Feedback System (MFS): SHL 360, or the Multi-Rater Feedback System (‘MFS’), provides a holistic 360-degree view of an employee by gathering feedback from the employee’s manager…",
+      "test_type": {
+        "codes": [
+          "D",
+          "P"
+        ],
+        "categories": [
+          "Development & 360",
+          "Personality & Behavior"
+        ]
+      }
+    }
+  ]
+}
